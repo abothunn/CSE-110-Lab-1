@@ -58,4 +58,4 @@ Link to my [lists:](#lists-section)
 
 Here is the link to my other .md file in my repository!
 
-Link to [README.md:](docs/README.md)
+Link to [README.md:](README.md)
