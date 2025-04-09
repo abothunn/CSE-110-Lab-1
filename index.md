@@ -25,4 +25,18 @@ My favorite old generation car:
 
 ## Lists Section
 
-![test](https://myoctocat.com/assets/images/base-octocat.svg)
+Here is an ordered list of my favorite Pokemon: 
+1. Greninja
+2. Toxtricity
+3. Toxapex
+4. Yveltal
+5. Gengar
+
+Here is a spec list of my PC: 
+* Ryzen 7800X3D
+* GeForce 3060ti 
+* Gigabyte B650 Gaming X2 
+* Flare X5 GSKILL DDR5 6000MT/s
+* Samsung SSD 990 PRO 2TB
+* NZXT Kraken Elite 360mm AIO
+
