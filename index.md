@@ -14,3 +14,9 @@ One of my favorite quotes is by Roger Federer, speeking on his experience during
 
 Me when I play tennis: 
 ![roger](download.jpg)
+
+My favorite new generation car: 
+![car](rolla.jpg)
+
+My favorite old generation car: 
+![car](evo9.jpeg)
