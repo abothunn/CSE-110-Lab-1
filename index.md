@@ -41,9 +41,9 @@ Here is a spec list of my PC:
 * NZXT Kraken Elite 360mm AIO
 
 Here is a task list of Target groceries I've recently bought as well as those I still need
--[x] Paper Towels
--[x] Toothpaste & Toothpaste
--[x] Sunscreen
--[ ] Gum & mints
--[ ] Facial Products
--[ ] Socks
+- [x] Paper Towels
+- [x] Toothpaste & Toothpaste
+- [x] Sunscreen
+- [ ] Gum & mints
+- [ ] Facial Products
+- [ ] Socks
