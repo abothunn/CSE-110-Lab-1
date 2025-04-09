@@ -8,7 +8,7 @@ Some things about me are that I'm a San Diego local and make a thirty minute com
 Fun fact, I recently bought a used 3DS XL from Ebay just to play *Pokémon* again! I also jailbroke and modded it using steps from the site (also uses Github for version control and collaboration) [3DS Hacks Guide](https://3ds.hacks.guide/).
 
 One of my favorite quotes is by Roger Federer, speeking on his experience during a retirement ceramony
-<Effortless is a myth. 
+> Effortless is a myth. 
 
 ## Pictures of what I enjoy: 
 
