@@ -47,3 +47,8 @@ Here is a task list of Target groceries I've recently bought as well as those I 
 - [ ] Gum & mints
 - [ ] Facial Products
 - [ ] Socks
+
+Here are links that link you back to sections of this page!
+Link to the very top: [Link Text](#user-page-about-me)
+Link to photos of things I like: [Link Text](#pictures-of-what-i-enjoy)
+Link to my lists: [Link Text](#lists-section)
