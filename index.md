@@ -50,9 +50,12 @@ Here is a task list of Target groceries I've recently bought as well as those I 
 
 Here are links that link you back to sections of this page!
 
-Link to the very top: [Link Text](#user-page-about-me)
+Link to the [very top:](#user-page-about-me)
 
-Link to photos of things I like: [Link Text](#pictures-of-what-i-enjoy)
+Link to [photos of things I like:](#pictures-of-what-i-enjoy)
 
-Link to my lists: [Link Text](#lists-section)
+Link to my [lists:](#lists-section)
 
+Here is the link to my other .md file in my repository!
+
+Link to [README.md:](docs/README.md)
